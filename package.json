@@ -1,25 +1,26 @@
 {
   "name": "@noliaki/eslint-config-prettier",
   "version": "0.0.1",
-  "description": "",
+  "description": "## Install",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noliaki/eslint-prettier-config.git"
+    "url": "git+https://github.com/noliaki/eslint-config-prettier.git"
   },
   "author": "noliaki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/noliaki/eslint-prettier-config/issues"
+    "url": "https://github.com/noliaki/eslint-config-prettier/issues"
   },
-  "homepage": "https://github.com/noliaki/eslint-prettier-config#readme",
+  "homepage": "https://github.com/noliaki/eslint-config-prettier#readme",
   "dependencies": {
     "@noliaki/eslint-config": "^0.0.2",
     "@noliaki/prettier-config": "^0.0.1",
     "eslint-config-prettier": "^3.3.0",
     "eslint-plugin-prettier": "^3.0.0"
-  }
+  },
+  "devDependencies": {}
 }
