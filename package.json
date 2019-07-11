@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/noliaki/eslint-config-prettier#readme",
   "dependencies": {
-    "@noliaki/eslint-config": "^0.0.2",
+    "@noliaki/eslint-config": "^0.1.0",
     "@noliaki/prettier-config": "^0.0.1",
-    "eslint-config-prettier": "^3.3.0",
-    "eslint-plugin-prettier": "^3.0.0"
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.0"
   },
   "devDependencies": {}
 }
