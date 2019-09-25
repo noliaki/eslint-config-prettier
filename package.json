@@ -1,6 +1,6 @@
 {
   "name": "@noliaki/eslint-config-prettier",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,10 +17,13 @@
   },
   "homepage": "https://github.com/noliaki/eslint-config-prettier#readme",
   "dependencies": {
-    "@noliaki/eslint-config": "^0.1.0",
+    "@noliaki/eslint-config": "^0.2.0",
     "@noliaki/prettier-config": "^0.0.1",
-    "eslint-config-prettier": "^6.0.0",
-    "eslint-plugin-prettier": "^3.1.0"
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.1"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
 }
