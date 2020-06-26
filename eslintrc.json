@@ -1,13 +1,6 @@
 {
-  "extends": ["@noliaki/eslint-config", "prettier"],
-  "plugins": ["prettier"],
-  "rules": {
-    "prettier/prettier": [
-      "error",
-      {
-        "semi": false,
-        "singleQuote": true
-      }
-    ]
-  }
+  "extends": [
+    "plugin:prettier/recommended",
+    "@noliaki/eslint-config"
+  ]
 }
