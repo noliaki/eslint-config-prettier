@@ -1,6 +1,6 @@
 {
   "extends": [
-    "plugin:prettier/recommended",
-    "@noliaki/eslint-config"
+    "@noliaki/eslint-config",
+    "plugin:prettier/recommended"
   ]
 }
